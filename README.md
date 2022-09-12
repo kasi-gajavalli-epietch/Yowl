@@ -8,63 +8,42 @@ Technologies: Backend-Laravel ,
 YOWL is a web application that will allow users to comment on all of the content found on the
 Internet. Each comment will be shared by the entire YOWL user community.
 
+
+---
+
+![Yowl Homepage](Home.png?raw=true "Yowl Homepage")
+
+---
+
+## Insatallation & Built With
+
 This tool makes it possible to decentralize comments from social networks and to have a new
 vision of the web through participatory on sources (OSINT) or simply by adding a comment thus
 federating communities around websites.
 
----
+    1. backend (Laravel)
+    ```php
+    * php artisan serve
+    ```
 
-![Yowl Homepage](Home.png?raw=true "Yowl Homepage")
-![Yowl Homepage](Home.png?raw=true "Yowl Homepage")
-<img
-  src="Home.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+    2. frontend (Vue.js)
+    ```javascript
+    * npm install
+    * npm run serve
+    ```
 
----
+    3. Create an account & Login to explore
+
+### Pre-requisites
+Admin Account
+Login: kasi@kasi.com
+Password: 1234
 
 ## Features
 
-This is a basic, semi-minimalist scientific calculator that has a number of essential functions used in science and math classes.
-The calculator also has a minalislt speech recognistion system (in english).To use these features, you need to install the following libraries using pip:
-
-    1. Pygame (mixer)
-    ```Python
-    * pip install pygame
-    ```
-
-    2. Speech Recognition
-    ```Python
-    * pip install speechrecognition
-    ```
-
-    3. Pyaudio (for voice input)
-    ```Python
-    * pip install pyaudio
-    ```
-
-### Pre-requisites
-On the module level, the 'math' and 'tkinter' module is already imported and included in the code.
-```Python
-from tkinter import *
-from math import*
-```
-
-### Installing
-Download any Python 3 IDE and run the code, or you can clone/download it from the homepage of the project.
-
-## Deployment
-Run the code
-
-## Built With
-
-* [Python 3](https://code.visualstudio.com/) - The IDE used
-* [Tkinter](https://docs.python.org/3.6/library/tkinter.html) Module - GUI and styling
-* [Math Module](https://docs.python.org/3/library/math.html) - Functions
-* [pygame](https://pypi.org/project/pygame/) - Play sound effects and music
-* [pyaudio](https://pypi.org/project/PyAudio/)- Cross-platform audio I/O
-* [speechrecognition](https://pypi.org/project/SpeechRecognition/) - Recognise speech from microphone & related functions 
+![Yowl Post](Post.png?raw=true "Yowl Page")
+![Yowl Profile](Profile.png?raw=true "Yowl Profile")
+![Yowl Admin](Admin_dashboard.png?raw=true "Yowl Admin")
 
 ## Authour
 
