@@ -22,12 +22,12 @@ vision of the web through participatory on sources (OSINT) or simply by adding a
 federating communities around websites.
 
     1. backend (Laravel)
-    ```php
+    ``` php
     * php artisan serve
     ```
 
     2. frontend (Vue.js)
-    ```javascript
+    ``` javascript
     * npm install
     * npm run serve
     ```
