@@ -17,10 +17,10 @@ federating communities around websites.
 ![Yowl Homepage](Home.png?raw=true "Yowl Homepage")
 ![Yowl Homepage](Home.png?raw=true "Yowl Homepage")
 <img
-  src="./Home.jpg"
+  src="Home.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 ---
 
